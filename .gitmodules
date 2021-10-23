@@ -1,3 +1,6 @@
 [submodule "synthesis_module/msynth"]
 	path = synthesis_module/msynth
 	url = https://github.com/mrphrazer/msynth.git
+[submodule "tools/miasm"]
+	path = tools/miasm
+	url = https://github.com/cea-sec/miasm.git
