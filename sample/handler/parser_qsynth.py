@@ -30,6 +30,8 @@ def get_miasm_Obfus_fromFile(filename, size = 32):
     stringExpr = parseObfusFile(filename)
     return string2ExprOp_list(stringExpr, size=size)
 
+
+
 def preprocess_qsynth_for_xyntia(filename, size = 32):
     stringExpr = parseObfusFile(filename)
     replaced_exprs = []

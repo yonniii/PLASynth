@@ -24,7 +24,11 @@ class Msynth_simp(HandlerBase):
 
     def simplify(self, expr):
         simplified = self.simplifier.simplify(expr)
-        return simplified
+        return simplified, True
+
+    def simplify_try2(self, expr,timeout = 1):
+        simplified = self.simplifier.simplify(expr)
+        return simplified, True
 
     def get_module_name(self):
         return "msynth-simp"

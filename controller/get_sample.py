@@ -1,6 +1,8 @@
 from sample.handler.parser_qsynth import get_miasm_Obfus_fromFile as qsynth
 from sample.handler.parser_tigress import get_miasm_Obfus_fromFile as tigress
 from sample.handler.parser_difficulty import get_miasm_Obfus_fromFile as diff
+from sample.handler.parser_others import get_miasm_Obfus_fromFile as other
+from sample.handler.parser_mbablast import get_miasm_Obfus_fromFile as mbablast
 
 
 def get_qsynth_sample(size:int):
@@ -14,6 +16,13 @@ def get_tigreses_sample(size:int):
 def get_difficulty_sample(size:int):
     return diff("../sample/raw_data/Difficulty/%s")
 
+def get_other_sample(size:int):
+    return other("../sample/raw_data/other.txt")
+
+
+def get_mbablast_sample(size:int):
+    return mbablast("/home/plas/work/msynth_test/synthesis_module/mba-blast/dataset/dataset2_32bit.txt")
+
 
 def get_sample(sample_type:str, size=32)->list:
     if sample_type == "qsynth":
@@ -22,8 +31,10 @@ def get_sample(sample_type:str, size=32)->list:
         return get_tigreses_sample(size)
     elif sample_type == "diff":
         return get_difficulty_sample(size)
-    elif sample_type == "total":
-        pass
+    elif sample_type == "other":
+        return get_other_sample(size)
+    elif sample_type == "mba-blast":
+        return get_mbablast_sample(size)
         # yield get_difficulty_sample(size)
         # yield get_qsynth_sample(size)
         # yield get_tigreses_sample(size)

@@ -70,7 +70,7 @@ def run_single_Xyntia(module, samples, outfile):
     file.close()
 
 def run(synthesis_module_type, sample_type):
-    filename = "./result/%s_%s_1023.json" % (synthesis_module_type, sample_type)
+    filename = "./result/0104_qsynth/%s_%s.json" % (synthesis_module_type, sample_type)
     if synthesis_module_type == "msynth_simp":
         # pass
         run_single_module(msynth_simplifier, samples=samples, outfile=filename)
@@ -83,7 +83,7 @@ def run(synthesis_module_type, sample_type):
 
 if __name__ == "__main__":
     # pass
-    synthesis_module_type = "xyntia"
+    synthesis_module_type = "msynth_synth"
     sample_type = "qsynth"
 
     samples = get_sample(sample_type)
