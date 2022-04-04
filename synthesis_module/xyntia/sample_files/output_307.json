@@ -1,0 +1,1620 @@
+{
+    "initial": {
+        "inputs": {
+            "0": {
+                "location": "v0",
+                "size": "0x4",
+                "value": "0x0"
+            }
+        },
+        "outputs": {
+            "0": {
+                "location": "EAX",
+                "size": "0x4",
+                "value": "0x0"
+            }
+        }
+    },
+    "sampling": {
+        "0": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x0"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x0"
+                }
+            }
+        },
+        "1": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffffe"
+                }
+            }
+        },
+        "10": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd2"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x86a"
+                }
+            }
+        },
+        "11": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd8"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x668"
+                }
+            }
+        },
+        "12": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x2b"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff8ec"
+                }
+            }
+        },
+        "13": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x21"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffb9e"
+                }
+            }
+        },
+        "14": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffdc"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x534"
+                }
+            }
+        },
+        "15": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x20"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffbe0"
+                }
+            }
+        },
+        "16": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff7"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x58"
+                }
+            }
+        },
+        "17": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x88e"
+                }
+            }
+        },
+        "18": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x22"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffb5a"
+                }
+            }
+        },
+        "19": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffcf"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x950"
+                }
+            }
+        },
+        "2": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffff"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x0"
+                }
+            }
+        },
+        "20": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x15"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffe52"
+                }
+            }
+        },
+        "21": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff4"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x9c"
+                }
+            }
+        },
+        "22": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffffe"
+                }
+            }
+        },
+        "23": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xc"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffff64"
+                }
+            }
+        },
+        "24": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x6"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffffde"
+                }
+            }
+        },
+        "25": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x22"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffb5a"
+                }
+            }
+        },
+        "26": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x13"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffe84"
+                }
+            }
+        },
+        "27": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x4"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffffec"
+                }
+            }
+        },
+        "28": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x5d6"
+                }
+            }
+        },
+        "29": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x29"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff946"
+                }
+            }
+        },
+        "3": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x7fffffff"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x80000000"
+                }
+            }
+        },
+        "30": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x6"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffffde"
+                }
+            }
+        },
+        "31": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x2a"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff932"
+                }
+            }
+        },
+        "32": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1c"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffcf4"
+                }
+            }
+        },
+        "33": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffdd"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x4ea"
+                }
+            }
+        },
+        "34": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffffc"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x14"
+                }
+            }
+        },
+        "35": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x2c"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff844"
+                }
+            }
+        },
+        "36": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd8"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x668"
+                }
+            }
+        },
+        "37": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffed"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x17a"
+                }
+            }
+        },
+        "38": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffffa6"
+                }
+            }
+        },
+        "39": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffffe"
+                }
+            }
+        },
+        "4": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x80000000"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x80000000"
+                }
+            }
+        },
+        "40": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffff"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x0"
+                }
+            }
+        },
+        "41": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x3de"
+                }
+            }
+        },
+        "42": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x20"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffbe0"
+                }
+            }
+        },
+        "43": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x20"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffbe0"
+                }
+            }
+        },
+        "44": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd7"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x6b8"
+                }
+            }
+        },
+        "45": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffea"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x1f2"
+                }
+            }
+        },
+        "46": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff5"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x72"
+                }
+            }
+        },
+        "47": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x36"
+                }
+            }
+        },
+        "48": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x13"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffe84"
+                }
+            }
+        },
+        "49": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x31"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff6ae"
+                }
+            }
+        },
+        "5": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x36"
+                }
+            }
+        },
+        "50": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1c"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffcf4"
+                }
+            }
+        },
+        "51": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x20"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffbe0"
+                }
+            }
+        },
+        "52": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x0"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x0"
+                }
+            }
+        },
+        "53": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x88e"
+                }
+            }
+        },
+        "54": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x8"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffffb8"
+                }
+            }
+        },
+        "55": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x18"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffda8"
+                }
+            }
+        },
+        "56": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff4"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x9c"
+                }
+            }
+        },
+        "57": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe0"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x420"
+                }
+            }
+        },
+        "58": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd7"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x6b8"
+                }
+            }
+        },
+        "59": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd5"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x712"
+                }
+            }
+        },
+        "6": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x11"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffece"
+                }
+            }
+        },
+        "60": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x11"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffece"
+                }
+            }
+        },
+        "61": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x31"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff6ae"
+                }
+            }
+        },
+        "62": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x26"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffa7e"
+                }
+            }
+        },
+        "63": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe6"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x2be"
+                }
+            }
+        },
+        "64": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x11"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffece"
+                }
+            }
+        },
+        "65": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xa"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffff92"
+                }
+            }
+        },
+        "66": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffec"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x184"
+                }
+            }
+        },
+        "67": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x2f"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff770"
+                }
+            }
+        },
+        "68": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1e"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffc66"
+                }
+            }
+        },
+        "69": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x30"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff6d0"
+                }
+            }
+        },
+        "7": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffffe"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x6"
+                }
+            }
+        },
+        "70": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe6"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x2be"
+                }
+            }
+        },
+        "71": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x20"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffbe0"
+                }
+            }
+        },
+        "72": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd2"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x86a"
+                }
+            }
+        },
+        "73": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x5d6"
+                }
+            }
+        },
+        "74": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1a"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffd42"
+                }
+            }
+        },
+        "75": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffffe"
+                }
+            }
+        },
+        "76": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffeb"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x1ac"
+                }
+            }
+        },
+        "77": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffde"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x4a6"
+                }
+            }
+        },
+        "78": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffd2"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x86a"
+                }
+            }
+        },
+        "79": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe6"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x2be"
+                }
+            }
+        },
+        "8": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x2c"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff844"
+                }
+            }
+        },
+        "80": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff1"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xee"
+                }
+            }
+        },
+        "81": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff7"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x58"
+                }
+            }
+        },
+        "82": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x18"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffda8"
+                }
+            }
+        },
+        "83": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffea"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x1f2"
+                }
+            }
+        },
+        "84": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff6"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x6e"
+                }
+            }
+        },
+        "85": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x36"
+                }
+            }
+        },
+        "86": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffee"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x156"
+                }
+            }
+        },
+        "87": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x21"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffb9e"
+                }
+            }
+        },
+        "88": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffce"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x9f6"
+                }
+            }
+        },
+        "89": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffdc"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x534"
+                }
+            }
+        },
+        "9": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe7"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x268"
+                }
+            }
+        },
+        "90": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x22"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffb5a"
+                }
+            }
+        },
+        "91": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff7"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x58"
+                }
+            }
+        },
+        "92": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff9"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x36"
+                }
+            }
+        },
+        "93": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x21"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffffb9e"
+                }
+            }
+        },
+        "94": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffee"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x156"
+                }
+            }
+        },
+        "95": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0x2c"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xfffff844"
+                }
+            }
+        },
+        "96": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffe5"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x2c2"
+                }
+            }
+        },
+        "97": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xfffffff0"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x110"
+                }
+            }
+        },
+        "98": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xffffffdc"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0x534"
+                }
+            }
+        },
+        "99": {
+            "inputs": {
+                "0": {
+                    "location": "v0",
+                    "size": "0x4",
+                    "value": "0xf"
+                }
+            },
+            "outputs": {
+                "0": {
+                    "location": "EAX",
+                    "size": "0x4",
+                    "value": "0xffffff10"
+                }
+            }
+        }
+    }
+}

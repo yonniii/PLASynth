@@ -1,0 +1,5 @@
+wheel
+z3-solver
+
+-r ./tools/miasm/requirements.txt
+-e ./tools/miasm
